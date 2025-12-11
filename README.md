@@ -31,24 +31,24 @@ I'm a passionate Computer Engineering student and Software Engineer, specializin
 
 ### 🛠 Tech Stack
 
-| Languages | Data Science & ML | Databases | Tools & IDEs | Others |
-| --------- | ----------------- | --------- | ------------ | ------ |
-| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | ![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat&logo=databricks&logoColor=FF6F00) | ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=4169E1) | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) | ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping%20with%20BeautifulSoup4-05122A?style=flat&logo=python&logoColor=FFD43B) |
-| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=tensorflow) | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL) | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) | ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-05122A?style=flat&logo=hackerrank&logoColor=2EC866) |
-| ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) | ![AI](https://img.shields.io/badge/-AI-05122A?style=flat&logo=tensorflow&logoColor=FF6F00) |  | ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=31A8FF) |  |
-| ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) | ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458) |  | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) |  |
-|  | ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy&logoColor=013243) |  |  |  |
-|  | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=11557C) |  |  |  |
-|  | ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=python&logoColor=4A9FD1) |  |  |  |
-|  | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E) |  |  |  |
-|  | ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626) |  |  |  |
-|  | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00) |  |  |  |
-|  | ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000) |  |  |  |
+| Languages | Data Science & ML | AI | Databases | Tools & IDEs | Others |
+| --------- | ----------------- | -- | --------- | ------------ | ------ | 
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | ![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat&logo=databricks&logoColor=FF6F00) | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow&logoColor=FF6F00) | ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=4169E1) | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) | ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=python&logoColor=FFD43B) |
+| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn) | ![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-05122A?style=flat&logo=keras&logoColor=D00000) | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL) | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) | ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-05122A?style=flat&logo=hackerrank&logoColor=2EC866) |
+| ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) | ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458) | ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=opencv&logoColor=5C3EE8) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1) | ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=31A8FF) |  |
+| ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) | ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy&logoColor=013243) | ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=python&logoColor=4A9FD1) |  | ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) |  |
+|  | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=11557C) | ![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=huggingface&logoColor=FFDD00) |  |  |  |
+|  | ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=python&logoColor=4A9FD1) | ![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface&logoColor=FFDD00) |  |  |  |
+|  | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E) | ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C) |  |  |  |
+|  | ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00) |  |  |  |
+|  |  | ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000) |  |  |  |
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Elqalini&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Elqalini&layout=compact&theme=radical&langs_count=3" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Mahmoud-Elqalini&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Mahmoud-Elqalini&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Mahmoud-Elqalini&style=for-the-badge">
 </a>
 
